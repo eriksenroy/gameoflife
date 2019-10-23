@@ -5,7 +5,8 @@
 #include <ncurses.h>
 
 #include "conway.h"
-
+//This is just an test to check if the github works as intended
+//hopefully
 const int uDelay = 150000; // time delay in microseconds
 
 int main(void)
